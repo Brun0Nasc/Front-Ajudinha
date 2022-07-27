@@ -1,0 +1,36 @@
+.cardpessoas{
+    border: 2.1px solid #21222D;
+    border-radius: 0.5rem;
+    display: flex;
+    width: 17%;
+    align-items: center;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+#usuarios{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -2%;
+    margin-left: 82%;
+    width: 12%;
+}
+.btn-adicionar{
+    font-family: Heebo;
+    font-weight: 800;
+    font-size: 1.3rem;
+    padding: 5px 25px;
+    color: #fff;
+    background-color: #E9C46A;
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left: 5%;
+    margin-top: 4%;
+    margin-bottom: 2%;
+}
+#geralpessoas{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 3%;
+    margin-top: -2%;
+}
